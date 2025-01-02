@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Fauna One';
+    color: rgb(4, 68, 244);
+}
+
+table {
+    margin: auto;
+}
+
+table,
+thead,
+td {
+    border: 1px solid;
+    border-color: goldenrod;
+}
+
+thead{
+    background: powderblue;
+    color: rgb(44, 11, 11);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.code {
+    font-family: monospace;
+    background-color: rgb(234, 233, 237);
+}
